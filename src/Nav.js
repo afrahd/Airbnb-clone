@@ -4,7 +4,7 @@ import './Nav.css'
 function Nav() {
   return (
     <nav className="nav">
-<img className="logo" src="https://colorpedia.org/wp-content/uploads/2021/09/airbnb-logo-300x225.png" alt="logo" />
+<img className="nav_logo" src="https://colorpedia.org/wp-content/uploads/2021/09/airbnb-logo-300x225.png" alt="logo" />
 
     </nav>
   )
