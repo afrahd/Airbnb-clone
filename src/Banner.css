@@ -2,3 +2,22 @@ section {
     padding: 20px;
 }
 
+.banner{
+    display: flex;
+    flex-direction: column;
+}
+
+.banner_image{
+    max-width: 400px;
+    align-self: center;
+    height: 232px;
+
+}
+
+.banner_header{
+    margin-bottom: 16px;
+}
+
+.banner_text{
+    margin-top: 0;
+}
